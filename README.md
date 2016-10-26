@@ -19,7 +19,7 @@ It is comprised of three files
 
 ###app.js
 * Stores the javascript for our project
-* On the web, Javascript will typical control the interactive parts of a project
+* On the web, Javascript will typically control the interactive parts of a project
 * These interactive elements can even dictate what HTML or CSS show up on the browser, depending on the users' interactions
 
 ###stylesheet.css
